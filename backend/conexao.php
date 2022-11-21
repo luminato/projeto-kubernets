@@ -1,5 +1,5 @@
 <?php
-$servername = "";
+$servername = "mysl-connection";
 $username = "root";
 $password = "Senha123";
 $database = "meubanco";
